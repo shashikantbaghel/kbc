@@ -4,6 +4,7 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="sound"/>
 	<classpathentry kind="src" path="image"/>
-	<classpathentry kind="lib" path="C:/Users/Mayank/Desktop/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="src/JTattoo-1.6.11.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
